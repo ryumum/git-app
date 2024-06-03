@@ -72,4 +72,4 @@ group :test do
 end
 
 gem 'devise'
-gem 'pray-rails'
+gem 'pry-rails'
